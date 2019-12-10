@@ -1,6 +1,6 @@
 ---
 layout: post
-title: :construction: Under construction :construction_worker:
+title: Under construction
 --- 
 
 This blog is under construction currently.
