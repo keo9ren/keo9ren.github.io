@@ -4,12 +4,17 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+I'm a full stack developer from germany. Currently working with [COS GmbH](https://www.cosonline.de/),
+building datacentric apps, based on web technologies, which can basically run anywhere; Native on iOS or Android as well as on the Desktop PC in the web browser.
+To feed the apps with user data I'm building Java EE (Wildfly) server at the backend, gathering the data, from a large existing Oracle Database.  
 
-### More Information
+### Need more
 
-A place to include any other types of information that you'd like to include about yourself.
+The best way to find out more about me is currently on linkedIn.
+Just use the badge on the bottom to head over to my profile.
 
-### Contact me
+### Get in touch with me
 
-[email@domain.com](mailto:email@domain.com)
+Use the badges on the bottom of the page to contact me.
+
+[xing](https://www.xing.com/profile/Oliver_Kehret/)
