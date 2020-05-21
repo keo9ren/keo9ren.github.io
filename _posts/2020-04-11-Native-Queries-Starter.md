@@ -45,7 +45,7 @@ class GetPet {
     EntityManager em;
     
     List<Pet> execute () {
-        return (List<Pet>) em.createNativeQuery("Select PET.name from PET",Pet.class);
+        return (List<Pet>) em.createNativeQuery("Select PET.name from PET",Pet.class).getResultList();
     }
 
 
@@ -72,7 +72,7 @@ class Query {
     EntityManager em;
     
     List<PetName> execute () {
-        return (List<PetName>) em.createNativeQuery("Select PET.name from PET",Pet.class);
+        return (List<PetName>) em.createNativeQuery("Select PET.name from PET",Pet.class).getResultList();
     }
 
 
