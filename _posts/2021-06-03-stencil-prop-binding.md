@@ -2,7 +2,7 @@
 layout: post
 title: Stencil Property Binding
 --- 
-Want to bind to a property in a stencil app / component lib. Well, here you go.
+Want to bind to a property in a stencil app / component lib.
 
 This is the class, and the prop t9n, we will bind to.
 ```tsx
@@ -51,7 +51,7 @@ Happy Prop Binding!!!
 
 Eager to see that yourself?
 
-Either check out my example repo on github or follow these steps.
+Either check out my example repo on github or follow these steps or checkout the [sample repo](https://github.com/keo9ren/stencil-prop-binding).
 
 ```shell
 npm init stencil component
