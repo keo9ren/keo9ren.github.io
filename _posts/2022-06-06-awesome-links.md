@@ -17,6 +17,7 @@ A collection of links featuring awesome content.
 6. [SmolCSS](https://smolcss.dev/)
 7. [Modern CSS](https://moderncss.dev/)
 8. [Media Queries for Devices](https://css-tricks.com/snippets/css/media-queries-for-standard-devices/)
+9. [Modern Normalize CSS](https://github.com/sindresorhus/modern-normalize)
 
 ## Test Automation
 1. [Test Automation University](https://testautomationu.applitools.com/)
