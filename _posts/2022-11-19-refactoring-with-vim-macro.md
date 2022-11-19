@@ -43,7 +43,7 @@ function getPasswordHarness() {
 
 Let's see how it works in a small gif first before, explaining the solution.
 
-<video muted autoplay controls>
+<video muted autoplay controls style="width: 100%;">
     <source src="/images/refactoring-vim-dataid/refactor-with-vim.mp4" type="video/mp4">
 </video>
 
