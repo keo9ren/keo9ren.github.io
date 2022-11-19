@@ -43,7 +43,7 @@ function getPasswordHarness() {
 
 Let's see how it works in a small gif first before, explaining the solution.
 
-![Refactor with VIM](/images/refactoring-vim-dataid/refactor-with-vim.mp4)
+[Refactor with VIM](/images/refactoring-vim-dataid/refactor-with-vim.mp4)
 
 The Commands
 =====
