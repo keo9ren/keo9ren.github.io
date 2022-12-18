@@ -21,3 +21,14 @@ A collection of links featuring awesome content.
 
 ## Test Automation
 1. [Test Automation University](https://testautomationu.applitools.com/)
+
+## Java for Beginners
+1. [Java for Beginners from Microsoft](https://learn.microsoft.com/en-us/shows/java-for-beginners/)
+2. [Heads First Java](https://www.oreilly.com/library/view/head-first-java/9781492091646/)
+3. [Java by Comparison](https://www.pragprog.com/titles/javacomp/java-by-comparison/)
+
+
+## Java
+1. [Functional Programming in Java](https://www.pragprog.com/titles/vsjava2e/functional-programming-in-java-second-edition/)
+2. [Cruising along with Java](https://www.pragprog.com/titles/vscajava/cruising-along-with-java/)
+3. [Mockito Made Clear](https://www.pragprog.com/titles/mockito/mockito-made-clear/)
