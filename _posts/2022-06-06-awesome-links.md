@@ -32,3 +32,7 @@ A collection of links featuring awesome content.
 1. [Functional Programming in Java](https://www.pragprog.com/titles/vsjava2e/functional-programming-in-java-second-edition/)
 2. [Cruising along with Java](https://www.pragprog.com/titles/vscajava/cruising-along-with-java/)
 3. [Mockito Made Clear](https://www.pragprog.com/titles/mockito/mockito-made-clear/)
+
+## HTML - Forms
+1. [Input Element Deep Dive](https://blog.logrocket.com/a-deep-dive-into-the-html-form-input-element/)
+2. [Input type=number](https://www.filamentgroup.com/lab/type-number.html)
