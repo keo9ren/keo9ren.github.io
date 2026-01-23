@@ -1,6 +1,6 @@
 version: 2
 updates:
-  # Maintain dependencies for Bundler
+  # Maintain dependencies for Bundler  
   - package-ecosystem: "bundler"
     directory: "/"
     schedule:
