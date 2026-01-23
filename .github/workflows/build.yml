@@ -20,7 +20,7 @@ jobs:
       - name: Setup Ruby
         uses: ruby/setup-ruby@v1
         with:
-          ruby-version: '3.1' # Adjust to match your local version or GitHub Pages supported version
+          ruby-version: '3.2' # Adjust to match your local version or GitHub Pages supported version
           bundler-cache: true
 
       - name: Build with Jekyll
